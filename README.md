@@ -9,7 +9,7 @@
 ![image](https://github.com/user-attachments/assets/1b2855c5-26ad-4dad-8889-d0deb15452b1)
 
 
-
+How can Artificial Intelligence effectively contribute to the classification of diseases affecting potato crops, thereby improving disease management and promoting more sustainable and productive agriculture?
 
 
 
